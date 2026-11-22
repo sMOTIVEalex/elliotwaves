@@ -4,6 +4,7 @@ Ein klassischer Impuls hat fünf Wellen. **1, 3 und 5** laufen mit dem Impuls, *
 
 | Thema | Inhalt |
 | --- | --- |
+| [Kurztabellen je Assetklasse](docs/04-kurztabellen.md) | Wellen 1–5 mit Richtmarken und möglichen Ausdehnungen |
 | [Impulse und Zählregeln](docs/01-impulse.md) | Wellen 1–5, harte Regeln, Fibonacci-Extensions und Rechenbeispiel |
 | [Korrekturen](docs/02-korrekturen.md) | Zigzag, Flat, Triangle, Kombinationen und Retracements |
 | [Assetklassen](docs/03-assetklassen.md) | Indizes, Gold, Silber, Einzelaktien, Risk Assets und Krypto |
